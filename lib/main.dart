@@ -48,7 +48,6 @@ class MyApp extends StatelessWidget {
   }
 }
 
-
 class TodoList extends StatefulWidget {
   const TodoList({super.key});
 
